@@ -69,7 +69,7 @@ brew install zopfli
 
 # Install Homebrew cask & cask fonts
 brew tap caskroom/cask
-brew tap caskroom/fonts  
+brew tap caskroom/fonts
 
 # Install casks
 brew cask install google-chrome
